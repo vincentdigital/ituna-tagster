@@ -19,6 +19,14 @@ At the time of writing I'm just using a Traktor S5 set. I feel like the biggest 
 
 5. Turn down your audio - the playlists will automatically play
 
+## Wishlist
+
+1. Nested tags
+
+2. Output iTunes XML 
+
+3. Do 'something' with `mdls`. This returns all Music metadata in the OS X CLI. 
+
 ## Credits
 
 [Add to iTunes using Appletalk](http://hints.macworld.com/article.php?story=20080902044037850)
